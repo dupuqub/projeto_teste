@@ -1,0 +1,44 @@
+________________________________________________________________________________________________________________________
+SHELL
+
+"pwd": Mostra o caminho atual.
+"ls": Mostra o que tem no diretório.
+"ls [caminho]": Mostra o que tem no caminho.
+
+"cd [caminho]": Vai para um novo diretório.
+"cd ..": Volta um diretório.
+"cd": Volta para o diretório primário.
+
+"mkdir": Cria um diretório novo.
+"rmdir": Remove um diretório.
+
+"touch [nome]": Cria o arquivo no diretório.
+"rm [nome]": Remove o arquivo do diretório.
+
+________________________________________________________________________________________________________________________
+GIT
+
+"git init": Inicia acompanhamento git no diretório.
+"git status": Mostra o estado atual de desenvolvimento.
+"git diff": Mostra todas as alterações no projeto.
+"git diff [nome]": Mostra as alterações em um arquivo específico.
+"git diff --staged: Mostra todas as Diffs dos arquivos em Stage.
+"git diff --staged [nome]: Mostra a Diff do arquivo específicio no Stage.
+"git log": Mostra uma lista com todos os Commits.
+
+"git add [nome]": Adiciona o arquivo ao pacote que será enviado.
+"git reset [nome]": Remove o arquivo do pacote que será enviado.
+
+"git rm [nome]": Deleta o arquivo do diretório.
+"git checkout HEAD [nome]": Recupera o arquivo no diretório para a versão da publicação em HEAD.
+"git checkout HEAD~[número] [nome]": Recupera o arquivo no diretório para a versão da publicação em HEAD~[número].
+
+________________________________________________________________________________________________________________________
+GLOSSÁRIO
+
+"MASTER": Existe apenas um. Todo trabalho publicado se torna parte do MASTER (tronco).
+"BRANCH": Podem existir vários. Todo trabalho em um projeto, antes de ser publicado, é um BRANCH (galho).
+
+"COMMIT": Um certo trabalho que foi publicado é um COMMIT.
+"STAGE": Arquivos alterados que poderão estar no próximo Commit é um STAGE.
+"HEAD": É o Commit que você está usando como fundação do seu BRANCH.

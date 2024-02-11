@@ -1,0 +1,3 @@
+maça, banana, abacate, manga
+alface, tomate, beterraba
+vaca, cachorro, gato, lagarto
