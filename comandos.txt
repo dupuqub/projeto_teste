@@ -33,6 +33,8 @@ GIT
 "git clone": Faz um clone do repositório remoto (Github), na sua máquina.
 "git push": Envia as mudanças dos seus Commits para o repositório remoto (Github).
 
+"git merge [nome]": Traz os Commits de [nome] para a branch atual.
+
 "git branch": Mostra a lista com todos os Branches, e simboliza em qual você está trabalhando com um asterisco (*).
 "git branch [nome]": Cria um Branch com o [nome], caso o Branch ainda não exista.
 "git branch -d [nome]": Deleta um Branch com o [nome], caso você não esteja neste Branch.
