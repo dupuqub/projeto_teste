@@ -43,6 +43,8 @@ GIT
 
 "git rm [nome]": Deleta o arquivo do diretório.
 
+asdjhgasdkjhgasdkhjgasdkjhg
+
 ________________________________________________________________________________________________________________________
 GLOSSÁRIO
 
