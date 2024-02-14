@@ -43,8 +43,6 @@ GIT
 
 "git rm [nome]": Deleta o arquivo do diretório.
 
-asdjhgasdkjhgasdkhjgasdkjhg
-
 ________________________________________________________________________________________________________________________
 GLOSSÁRIO
 
@@ -54,8 +52,3 @@ GLOSSÁRIO
 "COMMIT": Um certo trabalho que foi publicado é um COMMIT.
 "STAGE": Arquivos alterados que poderão estar no próximo Commit é um STAGE.
 "HEAD": É o Commit que você está usando como fundação do seu BRANCH.
-
-asdlkjhagsd
-asdjklhgasd
-asdjklhgasdasdljhgasdljhasd
-asdkljhgasd
